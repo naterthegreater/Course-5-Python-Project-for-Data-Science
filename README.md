@@ -6,3 +6,5 @@ Contains Jupyter Notebook that:
   - parses data for ['Date','Revenue'] into a dataframe
   - cleans data to remove rows with missing revenue and remove non-numerical text
   - plots data
+
+Note: Questions 5-6 plots would not save in the notebook, but running the code in those blocks will generate the plots
